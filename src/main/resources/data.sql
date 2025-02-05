@@ -1,5 +1,5 @@
-insert into user (job_title, first_name, last_name, email) values('Manager', 'badar', 'kamal', 'indul@bt.com');
-insert into user (job_title, first_name, last_name, email) values('Manager', 'marco', 'sartiano', 'indul@bt.com');
-insert into user (job_title, first_name, last_name, email) values('Manager', 'indul', 'Hassan', 'indul@bt.com');
-insert into user (job_title, first_name, last_name, email) values('Manager', 'martin', 'white', 'indul@bt.com');
-insert into user (job_title, first_name, last_name, email) values('Manager', 'anson', 'law', 'indul@bt.com');
+insert into user (job_title, first_name, last_name, email) values('Manager', 'mark', 'mathew', 'mark@abc.com');
+insert into user (job_title, first_name, last_name, email) values('Manager', 'rick', 'sartiano', 'rick@abc.com');
+insert into user (job_title, first_name, last_name, email) values('Manager', 'vimal', 'Hassan', 'vimal@abc.com');
+insert into user (job_title, first_name, last_name, email) values('Manager', 'mansion', 'white', 'mansion@abc.com');
+insert into user (job_title, first_name, last_name, email) values('Manager', 'femi', 'law', 'femi@abc.com');
